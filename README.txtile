@@ -12,6 +12,9 @@ $("#keypad").keypad() for deafult keypad
 $("#keypad").keypad({width:300,height:220}) 
 5.Optimal width and height is 300 and 220 respectively for good look of the key pad
 
+Download 
+1 Download from my git repos
+2 Using npm by running npm install keypad-plugin
  Please add comments if any issues
  Thank You
  VijayKrish93
