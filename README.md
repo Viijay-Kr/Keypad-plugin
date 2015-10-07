@@ -5,7 +5,8 @@ A Compact Keypad plugin which supports text and numeric and can be integrated ea
 1.Download keypad.js and include in your hosting file after including the jquery code.   
 
 2.Create a div like
-<div id="keypad"></div>
+  
+  <div id="keypad"></div>
 
 3.After creating a div open a script tag and call the plugin like
 $("#keypad").keypad() for deafult keypad
